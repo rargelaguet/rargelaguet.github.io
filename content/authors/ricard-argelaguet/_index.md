@@ -71,7 +71,7 @@ education:
 
 work:
   - position: Senior Research scientist
-    company_name: Altos Labs (ML/AI -> Institute of Computation)
+    company_name: Altos Labs (Institute of Computation)
     company_url: 'https://www.altoslabs.com/'
     company_logo: ''
     date_start: 2020-09-01
@@ -80,7 +80,7 @@ work:
       Responsibilities include:
       - Multi-omics data analysis using computational methods
       - Inference of gene regulatory networks that underlie cellular rejuvenation programming.
-      - Interisciplinary research between Institute of Science and Institute of Computation.
+      - Interdisciplinary connection between Institute of Science and Institute of Computation.
   - position: Research Scientist
     company_name: Altos Labs (Institute of Science)
     company_url: 'https://www.altoslabs.com/'
