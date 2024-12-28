@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks | Ricard Argelaguet</title>
+    <link>http://localhost:1313/talks/</link>
+      <atom:link href="http://localhost:1313/talks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Talks</title>
+      <link>http://localhost:1313/talks/</link>
+    </image>
+    
+    <item>
+      <title>Poster presentation at the Single Cell Genomics 2022 conference</title>
+      <link>http://localhost:1313/talks/scg2022/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/scg2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invited speaker at the Human Technopole</title>
+      <link>http://localhost:1313/talks/technopole2022/</link>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/technopole2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keynote speaker at the EIPP Bioinformatics Course for EMBL PhD students</title>
+      <link>http://localhost:1313/talks/embl_predoc_2022/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/embl_predoc_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invited speaker at the &#39;ELIXIR Omics Integration and Systems Biology&#39; course</title>
+      <link>http://localhost:1313/talks/scilife2021/</link>
+      <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/scilife2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invited speaker at Festival of Genomics</title>
+      <link>http://localhost:1313/talks/uk_festival_2020/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/uk_festival_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invited speaker at the &#39;Challenges in Omics Data Integration course&#39;</title>
+      <link>http://localhost:1313/talks/london2020/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/london2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invited participant at the Mathematical Frameworks for Integrative Analysis of Emerging Biological Data Types</title>
+      <link>http://localhost:1313/talks/banff2020/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/banff2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invited speaker at the PRBB Computational Genomics Seminar</title>
+      <link>http://localhost:1313/talks/barcelona2019/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/barcelona2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invited speaker at the German Conference in Bioinformatics</title>
+      <link>http://localhost:1313/talks/gcb2019/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/gcb2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poster presentation at the conference &#39;Biology of Genomes&#39;</title>
+      <link>http://localhost:1313/talks/bog2019/</link>
+      <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/bog2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected speaker at the Single Cell Genomics conference</title>
+      <link>http://localhost:1313/talks/scg2018/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/scg2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected speaker at the Mathematical and Statistical Aspects of Molecular Biology conference</title>
+      <link>http://localhost:1313/talks/masamb2018/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/masamb2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poster presentation at the Single Cell Genomics 2017 conference</title>
+      <link>http://localhost:1313/talks/scg2017/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/scg2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected talk at the conference &#39;From Single- to Multiomics: Applications and Challenges&#39;</title>
+      <link>http://localhost:1313/talks/multiomics2017/</link>
+      <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/multiomics2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected talk at the 4th Bioinformatics and Genomics Symposium</title>
+      <link>http://localhost:1313/talks/barcelona2016/</link>
+      <pubDate>Tue, 20 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/barcelona2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

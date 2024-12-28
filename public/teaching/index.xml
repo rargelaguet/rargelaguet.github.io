@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching | Ricard Argelaguet</title>
+    <link>http://localhost:1313/teaching/</link>
+      <atom:link href="http://localhost:1313/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Teaching</title>
+      <link>http://localhost:1313/teaching/</link>
+    </image>
+    
+    <item>
+      <title>MOFA workshop (VIB Training, 2018-2022)</title>
+      <link>http://localhost:1313/teaching/vib_mofa/</link>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/vib_mofa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demonstrator at the course &#39;Integrative analysis of multi-omics data&#39; (EMBL, 2022)</title>
+      <link>http://localhost:1313/teaching/embl_2022/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/embl_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instructor at the IARC-SIB course: &#39;Multivariate analysis for -omics data integration: principles and applications&#39;</title>
+      <link>http://localhost:1313/teaching/lyon_2021/</link>
+      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/lyon_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adjunct professor, MSc Bioinformatics at Universitat Pompeu Fabra (2020-2022)</title>
+      <link>http://localhost:1313/teaching/msc_upf_multiomics/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/msc_upf_multiomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adjunct professor, MSc Bioinformatics at Universitat Pompeu Fabra</title>
+      <link>http://localhost:1313/teaching/msc_upf_single_cell/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/msc_upf_single_cell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adjunct Professor, BSc Human Biology at Universitat Pompeu Fabra (2020 and 2021)</title>
+      <link>http://localhost:1313/teaching/bsc_upf/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/bsc_upf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demonstrator at the course &#39;Systems biology: From large datasets to biological insight&#39; (EMBL-EBI)</title>
+      <link>http://localhost:1313/teaching/ebi_2018/</link>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/ebi_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demonstrator at the course &#39;Introduction to multiomics data integration&#39; (EMBL-EBI, 2018 and 2019)</title>
+      <link>http://localhost:1313/teaching/ebi_2019/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/ebi_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supervisor at the BSc course &#39;Mathematical Biology&#39; at Cambridge University (2017-2020)</title>
+      <link>http://localhost:1313/teaching/supervisor_cambridge/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/supervisor_cambridge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching assistant, MSc Bioinformatics at Copenhagen University (2015-2016)</title>
+      <link>http://localhost:1313/teaching/msc_denmark_2015/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/msc_denmark_2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

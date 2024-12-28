@@ -3,10 +3,16 @@
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
+  # theme_day: minimal
+  # theme_night: minimal
+  # font: minimal
+  # font_size: L
+
 # Appearance
 appearance:
   mode: system
   color: emerald
+
 
 # SEO
 marketing:
