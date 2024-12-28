@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Supervision | Ricard Argelaguet</title>
+    <link>http://localhost:1313/supervision/</link>
+      <atom:link href="http://localhost:1313/supervision/index.xml" rel="self" type="application/rss+xml" />
+    <description>Supervision</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Supervision</title>
+      <link>http://localhost:1313/supervision/</link>
+    </image>
+    
+    <item>
+      <title>Brendan Terry (2021-2022): Multi-modal CRISPR screenings at single-cell resolution</title>
+      <link>http://localhost:1313/supervision/brendan_terry/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/supervision/brendan_terry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bart Theeuwes (2021 - 2022): Deciphering gene regulatory network control of embryonic haematopoiesis from single-cell multi-modal data</title>
+      <link>http://localhost:1313/supervision/bart_theeuwes/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/supervision/bart_theeuwes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gavin Li (2021 - 2022): modelling gene regulatory networks from single-cell multi-modal data</title>
+      <link>http://localhost:1313/supervision/gavin_li/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/supervision/gavin_li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yonatan Deloro (2018): Factor Analysis Models for Genomics data</title>
+      <link>http://localhost:1313/supervision/yonatan_deloro/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/supervision/yonatan_deloro/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -13,14 +13,6 @@
     </image>
     
     <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
-      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Eomes directs the formation of spatially and functionally diverse extra-embryonic hematovascular tissues</title>
       <link>http://localhost:1313/publication/theeuwes-2024-eomes/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
@@ -281,7 +273,7 @@
 
 
 
-&lt;div id=&#34;chart-147325689&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-948635271&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -299,7 +291,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-147325689&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-948635271&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -767,6 +759,14 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
+      <title>Brendan Terry (2021-2022): Multi-modal CRISPR screenings at single-cell resolution</title>
+      <link>http://localhost:1313/supervision/brendan_terry/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/supervision/brendan_terry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Invited speaker at the &#39;ELIXIR Omics Integration and Systems Biology&#39; course</title>
       <link>http://localhost:1313/talks/scilife2021/</link>
       <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
@@ -779,6 +779,22 @@ Parallel 4   :         des6, after des4, 1d
       <link>http://localhost:1313/teaching/msc_upf_multiomics/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/teaching/msc_upf_multiomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bart Theeuwes (2021 - 2022): Deciphering gene regulatory network control of embryonic haematopoiesis from single-cell multi-modal data</title>
+      <link>http://localhost:1313/supervision/bart_theeuwes/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/supervision/bart_theeuwes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gavin Li (2021 - 2022): modelling gene regulatory networks from single-cell multi-modal data</title>
+      <link>http://localhost:1313/supervision/gavin_li/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/supervision/gavin_li/</guid>
       <description></description>
     </item>
     
@@ -823,6 +839,14 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
+      <title>Gavin Li (2021 - 2022)</title>
+      <link>http://localhost:1313/talks/london2020/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/london2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Integrative Transkingdom Analysis of the Gut Microbiome in Antibiotic Perturbation and Critical Illness</title>
       <link>http://localhost:1313/publication/haas-2021-msystems/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -835,14 +859,6 @@ Parallel 4   :         des6, after des4, 1d
       <link>http://localhost:1313/publication/kapourani-2021-scmet/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/kapourani-2021-scmet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Invited speaker at the &#39;Challenges in Omics Data Integration course&#39;</title>
-      <link>http://localhost:1313/talks/london2020/</link>
-      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talks/london2020/</guid>
       <description></description>
     </item>
     
@@ -931,6 +947,14 @@ Parallel 4   :         des6, after des4, 1d
       <link>http://localhost:1313/talks/masamb2018/</link>
       <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/talks/masamb2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yonatan Deloro (2018): Factor Analysis Models for Genomics data</title>
+      <link>http://localhost:1313/supervision/yonatan_deloro/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/supervision/yonatan_deloro/</guid>
       <description></description>
     </item>
     

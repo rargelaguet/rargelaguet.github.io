@@ -1,27 +1,26 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Invited speaker at the 'Challenges in Omics Data Integration course'"
+title: "Gavin Li (2021 - 2022)"
 event: 
-event_url: https://training.vib.be/all-trainings/challenges-omics-data-integration
-location: Belgium 
+location: Babraham Institute, Cambridge, UK 
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary: "Multi-Omics Factor Analysis (MOFA): a statistical framework for the unsupervised integration of multi-omics data"
+summary: "BSc student from Zhejiang University, China <br> Topic: modelling gene regulatory networks from single-cell multi-modal data"
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-10-08
-# date_end: 2022-09-26T12:46:20+02:00
+date: 2021-01-01
+date_end: 2022-09-20
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: 2022-09-26T12:46:20+02:00
+# publishDate: 2022-09-26T12:46:20+02:00
 
 authors: []
 tags: []

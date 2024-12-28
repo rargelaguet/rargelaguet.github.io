@@ -6,10 +6,6 @@
     <lastmod>2024-12-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2024-05-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/publication_types/2/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -166,11 +162,27 @@
     <lastmod>2021-11-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/supervision/brendan_terry/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/supervision/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/talks/scilife2021/</loc>
     <lastmod>2021-09-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/teaching/msc_upf_multiomics/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/supervision/bart_theeuwes/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/supervision/gavin_li/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -194,16 +206,16 @@
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/talks/london2020/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/publication/haas-2021-msystems/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication/kapourani-2021-scmet/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/talks/london2020/</loc>
-    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/teaching/bsc_upf/</loc>
@@ -248,6 +260,10 @@
   </url><url>
     <loc>http://localhost:1313/talks/masamb2018/</loc>
     <lastmod>2018-03-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/supervision/yonatan_deloro/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication/argelaguet-2018-mofa/</loc>

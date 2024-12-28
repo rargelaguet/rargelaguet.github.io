@@ -71,5 +71,15 @@ sections:
     design:
       view: card
       columns: 1
+  # - block: collection
+  #   id: supervision
+  #   content:
+  #     title: Supervision
+  #     filters:
+  #       folders:
+  #         - supervision
+  #   design:
+  #     view: compact
+  #     columns: 1
 
 ---

@@ -3,15 +3,14 @@
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-  # theme_day: minimal
-  # theme_night: minimal
-  # font: minimal
-  # font_size: L
-
 # Appearance
 appearance:
   mode: system
   color: emerald
+  # mode: system  # Options: 'light', 'dark', or 'system'
+  # color: blue   # Options: 'blue', 'cyan', 'green', 'indigo', 'purple', 'red', 'rose', 'sky', 'teal', 'zinc'
+  # font: minimal # Options: 'minimal', 'classic', 'rose', 'mr_robot', 'cyberpunk', 'native'
+  # font_size: xl  # Options: 'xs', 's', 'm', 'l', 'xl'
 
 
 # SEO

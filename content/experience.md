@@ -12,7 +12,7 @@ design:
 sections:
   - block: resume-experience
     content:
-      username: admin
+      username: ricard-argelaguet
     design:
       # Hugo date format
       date_format: 'January 2006'
@@ -20,12 +20,12 @@ sections:
       is_education_first: false
   - block: resume-skills
     content:
-      title: Skills & Hobbies
-      username: admin
+      title: Skills
+      username: ricard-argelaguet
     design:
       show_skill_percentage: false
   - block: resume-languages
     content:
       title: Languages
-      username: admin
+      username: ricard-argelaguet
 ---

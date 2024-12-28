@@ -50,14 +50,24 @@ education:
     institution: EMBL-EBI & University of Cambridge
     date_start: 2016-10-01
     date_end: 2020-12-30
+    summary: |
+      - Supervisors: John Marioni and Oliver Stegle
+      - [PhD thesis: Statistical methods for the integrative analysis of single-cell multi-omics data](https://www.repository.cam.ac.uk/handle/1810/315822)
+
   - area: MSc in Bioinformatics
     institution: Copenhagen University (Copenhagen, Denmark)
     date_start: 2014-09-01
     date_end: 2016-06-30
+    summary: |
+      - Supervisors: Florian Buettner and Oliver Stegle
+      - [MSc thesis: Bayesian Factor Analysis models for genomics data integration](https://tinyurl.com/2jt6mfz3)
   - area: BSc in Human Biology
     institution: Universitat Pompeu Fabra (Barcelona, Catalonia, Spain)
     date_start: 2010-09-01
     date_end: 2014-06-30
+    summary: |
+      - Supervisor: Kashif Sadiq and Andreas Meyerhans
+      - [BSc thesis: Kinetic characterization of the mature HIV-1 protease by constructing Markov models from Molecular Dynamics Simulations](https://tinyurl.com/2swsuyvd)
 
 work:
   - position: Senior Research scientist
