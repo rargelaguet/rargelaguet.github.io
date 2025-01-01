@@ -22,5 +22,6 @@ abstract: Abstract High-throughput single-cell measurements of DNA methylomes ca
 featured: false
 publication: '*Genome Biology*'
 doi: 10.1186/s13059-021-02329-8
+url_pdf: 'https://genomebiology.biomedcentral.com/counter/pdf/10.1186/s13059-021-02329-8.pdf'
 ---
 

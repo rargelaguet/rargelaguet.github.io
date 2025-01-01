@@ -32,5 +32,6 @@ publication_types:
 abstract: ''
 featured: false
 publication: '*Nature*'
+url_pdf: 'https://tinyurl.com/f63jkp8r'
 ---
 

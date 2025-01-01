@@ -6,28 +6,20 @@
     <lastmod>2024-12-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/2/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/talks/astrazeneca2024/</loc>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/theeuwes-2024-eomes/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/talks/</loc>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/todd-2024-priming/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/talks/cambridgeai_2024/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/rosshandler-2024-organogenesis/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/talks/harvard2023/</loc>
+    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/post/get-started/</loc>
@@ -106,15 +98,23 @@
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/badia-2023-grn/</loc>
+    <loc>http://localhost:1313/publication_types/2/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/reviews/badia-2023-grn/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication_types/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/reviews/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/talks/scg2022/</loc>
-    <lastmod>2022-10-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/talks/</loc>
     <lastmod>2022-10-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -138,10 +138,6 @@
     <lastmod>2022-04-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/taubenschmid-2022-8-clc/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/publication/argelaguet-2022-decoding/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -154,8 +150,16 @@
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/publication/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/publication/clark-2022-methylation/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/talks/10x_genomics_2021/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/teaching/lyon_2021/</loc>
@@ -194,19 +198,7 @@
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/le-cao-2021-hackaton/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/argelaguet-2021-principles/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/eckenrode-2021-single-cell-multi-modal/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/talks/london2020/</loc>
+    <loc>http://localhost:1313/reviews/argelaguet-2021-principles/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -215,6 +207,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication/kapourani-2021-scmet/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/talks/london2020/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

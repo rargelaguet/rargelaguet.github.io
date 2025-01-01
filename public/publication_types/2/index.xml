@@ -5,7 +5,7 @@
     <link>http://localhost:1313/publication_types/2/</link>
       <atom:link href="http://localhost:1313/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>2</title>
@@ -13,42 +13,10 @@
     </image>
     
     <item>
-      <title>Eomes directs the formation of spatially and functionally diverse extra-embryonic hematovascular tissues</title>
-      <link>http://localhost:1313/publication/theeuwes-2024-eomes/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/theeuwes-2024-eomes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Epigenetic priming of embryonic enhancer elements coordinates developmental gene networks</title>
-      <link>http://localhost:1313/publication/todd-2024-priming/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/todd-2024-priming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tracking early mammalian organogenesis – prediction and validation of differentiation trajectories at whole organism scale</title>
-      <link>http://localhost:1313/publication/rosshandler-2024-organogenesis/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rosshandler-2024-organogenesis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gene regulatory network inference in the era of single-cell multi-omics</title>
-      <link>http://localhost:1313/publication/badia-2023-grn/</link>
+      <link>http://localhost:1313/reviews/badia-2023-grn/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/badia-2023-grn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>8C-like cells capture the human zygotic genome activation program in vitro.</title>
-      <link>http://localhost:1313/publication/taubenschmid-2022-8-clc/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/taubenschmid-2022-8-clc/</guid>
+      <guid>http://localhost:1313/reviews/badia-2023-grn/</guid>
       <description></description>
     </item>
     
@@ -85,26 +53,10 @@
     </item>
     
     <item>
-      <title>Community-wide hackathons to identify central themes in single-cell multi-omics.</title>
-      <link>http://localhost:1313/publication/le-cao-2021-hackaton/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/le-cao-2021-hackaton/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Computational principles and challenges in single-cell data integration</title>
-      <link>http://localhost:1313/publication/argelaguet-2021-principles/</link>
+      <link>http://localhost:1313/reviews/argelaguet-2021-principles/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/argelaguet-2021-principles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Curated Single Cell Multimodal Landmark Datasets for R/Bioconductor</title>
-      <link>http://localhost:1313/publication/eckenrode-2021-single-cell-multi-modal/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/eckenrode-2021-single-cell-multi-modal/</guid>
+      <guid>http://localhost:1313/reviews/argelaguet-2021-principles/</guid>
       <description></description>
     </item>
     

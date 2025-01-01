@@ -24,8 +24,8 @@ sections:
       username: ricard-argelaguet
     design:
       show_skill_percentage: false
-  - block: resume-languages
-    content:
-      title: Languages
-      username: ricard-argelaguet
+  # - block: resume-languages
+  #   content:
+  #     title: Languages
+  #     username: ricard-argelaguet
 ---

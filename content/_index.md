@@ -33,13 +33,24 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Publications
+      title: Selected publications
       filters:
         folders:
           - publication
         featured_only: false
     design:
-      view: article-grid
+      view: citation
+      columns: 2
+  - block: collection
+    id: reviews
+    content:
+      title: Reviews
+      filters:
+        folders:
+          - reviews
+        featured_only: false
+    design:
+      view: citation
       columns: 2
   # - block: collection
   #   content:
@@ -59,7 +70,7 @@ sections:
         folders:
           - talks
     design:
-      view: card
+      view: citation
       columns: 1
   - block: collection
     id: teaching
@@ -69,7 +80,7 @@ sections:
         folders:
           - teaching
     design:
-      view: card
+      view: citation
       columns: 1
   # - block: collection
   #   id: supervision

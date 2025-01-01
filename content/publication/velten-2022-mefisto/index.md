@@ -33,5 +33,6 @@ abstract: Factor analysis is a widely used method for dimensionality reduction i
 featured: false
 publication: '*Nature Methods*'
 doi: 10.1038/s41592-021-01343-9
+url_pdf: 'https://www.nature.com/articles/s41592-021-01343-9.pdf'
 ---
 

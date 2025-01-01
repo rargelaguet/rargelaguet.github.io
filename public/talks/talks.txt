@@ -1,0 +1,22 @@
+\ecvitem{}{- 4th Bioinformatics and Genomics Symposium (Barcelona, 2016)}
+\ecvitem{}{- From Single- to Multiomics: Applications and Challenges, conference (Heidelberg, 2017)}
+\ecvitem{}{- Annual Meeting of Mathematical and Statistical Aspects of Molecular Biology (St. Andrews, 2018)}
+\ecvitem{}{- German Conference in Bioinformatics (Heidelberg, 2019).} 
+\ecvitem{}{- Single-cell Genomics conferenc e(Boston, 2019).}
+\ecvitem{}{- EMBL-EBI Industry Programme Workshop on single-cell multi-omics (Cambridge, 2019).}
+\ecvitem{}{- German Conference in Bioinformatics (Heidelberg, 2019).}
+\ecvitem{}{- Life Science Masterclass, Addenbrooks Biomedical Campus (Cambridge, 2019).}
+\ecvitem{}{- Machine Learning Discussion Group, Cavendish Laboratories (Cambridge, 2019).}
+\ecvitem{}{- Universite Cote d'Azur Seminar (Nice, 2019).}
+\ecvitem{}{- PRBB Computational Genomics Seminar (Barcelona, 2019).}
+\ecvitem{}{- Workshop on Methods in Integrative Genomics, organised by the Royal Statistical Society and the Centre for Methodology at the London School of Hygiene and Tropical Medicine (London, 2020)}
+\ecvitem{}{- GOS Institute of Child Health Research Symposium (London, 2020).}
+\ecvitem{}{- Mathematical Frameworks for Integrative Analysis of Emerging Biological Data Types (Banff, 2020).}
+\ecvitem{}{- Challenges in Omics data integration (EU-LIFE online workshop, 2020).}
+\ecvitem{}{- UK Festival of Genomics (virtual, 2020)}
+\ecvitem{}{- Bristol Meyers Squibb computational seminar (Online, 2021).}
+\ecvitem{}{- 10x Genomics webinar on single-cell multi-modal analysis (Online, 2022).}
+\ecvitem{}{- Harvard Medical school, Computational biology seminar (Online, 2023).}
+\ecvitem{}{- Astrazeneca, computational biology seminar(Cambridge, 2024).}
+\ecvitem{}{- Cambridge AI club for Biomedicine, seminar (Cambridge, 2024).}
+\ecvitem{}{- Center for Health Data Science, computational seminar (Copenhagen, 2025).}

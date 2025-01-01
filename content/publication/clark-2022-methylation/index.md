@@ -18,5 +18,6 @@ publication_types:
 abstract: ''
 featured: false
 publication: '*Genome Biology*'
+url_pdf: 'https://genomebiology.biomedcentral.com/counter/pdf/10.1186/s13059-022-02762-3.pdf'
 ---
 

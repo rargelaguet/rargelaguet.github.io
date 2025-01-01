@@ -31,5 +31,6 @@ abstract: Following gastrulation, the three primary germ layers develop into the
 featured: false
 publication: '*bioRxiv*'
 doi: 10.1101/2022.06.15.496239
+url_pdf: 'https://tinyurl.com/4wfap6tp'
 ---
 

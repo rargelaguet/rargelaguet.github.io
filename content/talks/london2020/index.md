@@ -1,16 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Gavin Li (2021 - 2022)"
+title: "Workshop on Methods in Integrative Genomics, organised by the Royal Statistical Society (London, 2020)"
 event: 
-location: Babraham Institute, Cambridge, UK 
+location: London School of Hygiene and Tropical Medicine
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary: "BSc student from Zhejiang University, China <br> Topic: modelling gene regulatory networks from single-cell multi-modal data"
+summary: ""
 abstract:
 
 # Talk start and end times.

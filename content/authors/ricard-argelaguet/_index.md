@@ -98,20 +98,28 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
-        percent: 100
+        description: 'Proficient'
         icon: code-bracket
       - name: R
-        description: ''
-        percent: 100
+        description: 'Proficient'
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
       - name: Bioinformatics
+        description: 'Proficiency in analysis of RNA-seq, ATAC-seq, DNA methylation, ChIP-seq, etc.'
+        icon: circle-stack
+      - name: single-cell data analysis
+        description: 'Proficiency in analysis of scRNA-seq, scATAC-seq, scNMT-seq, scMultiome'
+        icon: circle-stack
+      - name: Data Science
+        description: 'Probabilistic modelling, Bayesian inference, (generalised) linear models, factor analysis'
+        icon: chart-bar
+      - name: Deep learning 
+        description: 'Neural networks, variational autoencoders; Pytorch'
+        icon: chart-bar
+      - name: Workflow management
+        description: 'Snakemake, Nextflow'
+        icon: circle-stack
+      - name: Interactive data visualisations (R shiny)
         description: ''
-        percent: 100
         icon: circle-stack
   # - name: Hobbies
   #   color: '#eeac02'

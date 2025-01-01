@@ -25,5 +25,6 @@ abstract: Technological advances have enabled the profiling of multiple molecula
 featured: false
 publication: '*Genome Biology*'
 doi: 10.1186/s13059-020-02015-1
+url_pdf: 'https://genomebiology.biomedcentral.com/counter/pdf/10.1186/s13059-020-02015-1.pdf'
 ---
 

@@ -22,5 +22,6 @@ doi: 10.15252/msb.20178124
 links:
 - name: URL
   url: https://www.ncbi.nlm.nih.gov/pubmed/29925568
+url_pdf: 'https://www.embopress.org/doi/epdf/10.15252/msb.20178124'
 ---
 

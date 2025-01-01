@@ -13,26 +13,26 @@
     </image>
     
     <item>
-      <title>Eomes directs the formation of spatially and functionally diverse extra-embryonic hematovascular tissues</title>
-      <link>http://localhost:1313/publication/theeuwes-2024-eomes/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/theeuwes-2024-eomes/</guid>
+      <title>Invited speaker at Astrazeneca, Computational Biology Seminar</title>
+      <link>http://localhost:1313/talks/astrazeneca2024/</link>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/astrazeneca2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Epigenetic priming of embryonic enhancer elements coordinates developmental gene networks</title>
-      <link>http://localhost:1313/publication/todd-2024-priming/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/todd-2024-priming/</guid>
+      <title>Principles of multi-omics data integration (Cambridge AI Club for Biomedicine) </title>
+      <link>http://localhost:1313/talks/cambridgeai_2024/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/cambridgeai_2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tracking early mammalian organogenesis – prediction and validation of differentiation trajectories at whole organism scale</title>
-      <link>http://localhost:1313/publication/rosshandler-2024-organogenesis/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rosshandler-2024-organogenesis/</guid>
+      <title>Invited speaker at Harvard Medical School, Centre for Computational Biology Seminar Series</title>
+      <link>http://localhost:1313/talks/harvard2023/</link>
+      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/harvard2023/</guid>
       <description></description>
     </item>
     
@@ -273,7 +273,7 @@
 
 
 
-&lt;div id=&#34;chart-948635271&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-574236198&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -291,7 +291,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-948635271&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-574236198&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -664,9 +664,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Gene regulatory network inference in the era of single-cell multi-omics</title>
-      <link>http://localhost:1313/publication/badia-2023-grn/</link>
+      <link>http://localhost:1313/reviews/badia-2023-grn/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/badia-2023-grn/</guid>
+      <guid>http://localhost:1313/reviews/badia-2023-grn/</guid>
       <description></description>
     </item>
     
@@ -711,14 +711,6 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
-      <title>8C-like cells capture the human zygotic genome activation program in vitro.</title>
-      <link>http://localhost:1313/publication/taubenschmid-2022-8-clc/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/taubenschmid-2022-8-clc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Decoding gene regulation in the mouse embryo using single-cell multi-omics</title>
       <link>http://localhost:1313/publication/argelaguet-2022-decoding/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
@@ -747,6 +739,14 @@ Parallel 4   :         des6, after des4, 1d
       <link>http://localhost:1313/publication/clark-2022-methylation/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/clark-2022-methylation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data integration techniuqes for the 10x Chromium single-cell Multiome technology (10x Genomics Webinar Series)</title>
+      <link>http://localhost:1313/talks/10x_genomics_2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/10x_genomics_2021/</guid>
       <description></description>
     </item>
     
@@ -815,34 +815,10 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
-      <title>Community-wide hackathons to identify central themes in single-cell multi-omics.</title>
-      <link>http://localhost:1313/publication/le-cao-2021-hackaton/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/le-cao-2021-hackaton/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Computational principles and challenges in single-cell data integration</title>
-      <link>http://localhost:1313/publication/argelaguet-2021-principles/</link>
+      <link>http://localhost:1313/reviews/argelaguet-2021-principles/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/argelaguet-2021-principles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Curated Single Cell Multimodal Landmark Datasets for R/Bioconductor</title>
-      <link>http://localhost:1313/publication/eckenrode-2021-single-cell-multi-modal/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/eckenrode-2021-single-cell-multi-modal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gavin Li (2021 - 2022)</title>
-      <link>http://localhost:1313/talks/london2020/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talks/london2020/</guid>
+      <guid>http://localhost:1313/reviews/argelaguet-2021-principles/</guid>
       <description></description>
     </item>
     
@@ -859,6 +835,14 @@ Parallel 4   :         des6, after des4, 1d
       <link>http://localhost:1313/publication/kapourani-2021-scmet/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/kapourani-2021-scmet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop on Methods in Integrative Genomics, organised by the Royal Statistical Society (London, 2020)</title>
+      <link>http://localhost:1313/talks/london2020/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/london2020/</guid>
       <description></description>
     </item>
     
